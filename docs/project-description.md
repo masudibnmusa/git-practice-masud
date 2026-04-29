@@ -1,0 +1,1 @@
+"This project is a simple calculator application designed to practice Git and GitHub."
